@@ -26,7 +26,7 @@ const Nate = {
         databases: ["Microsoft SQL Server Management Studio", "MySql", "Oracle", "SAP"],
     },
 };
-
+```
 
 <h3> &nbsp; About Me</h3>
 
